@@ -5,10 +5,11 @@ body {
 	color:#777;
 }
 img.card-img-top {
-	max-height:200px;
+	
 }
 .serenity {
 	max-width:150px;
+	max-height:200px;
 }
 .center {
   display: block;
