@@ -1,0 +1,18 @@
+body {
+  padding-top: 56px;
+}
+.graytxt {
+	color:#777;
+}
+img.card-img-top {
+	max-height:200px;
+}
+.serenity {
+	max-width:150px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
