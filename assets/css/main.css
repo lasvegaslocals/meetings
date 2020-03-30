@@ -17,3 +17,6 @@ body {
   margin-right: auto;
   width: 50%;
 }
+.txtcenter {
+	text-align:center;
+}
