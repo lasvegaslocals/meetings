@@ -20,3 +20,8 @@ body {
 .txtcenter {
 	text-align:center;
 }
+@media screen and (max-width:767px) {
+	img#betterhelp-toggle {
+		max-width:100%;
+	}
+}
