@@ -20,6 +20,9 @@ body {
 .txtcenter {
 	text-align:center;
 }
+.info-box {
+	background-color:#dfdfdf;
+}
 @media screen and (max-width:767px) {
 	img#betterhelp-toggle {
 		max-width:100%;
